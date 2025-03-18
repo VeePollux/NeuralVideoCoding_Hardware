@@ -5,7 +5,7 @@ use work.float_pkg.all;
 use work.fixed_pkg.ALL;
 
 entity tb_convolution_int is
-end Convolution_Testbench;
+end tb_convolution_int;
 
 architecture TB of tb_convolution_int is
 
